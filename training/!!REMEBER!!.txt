@@ -1,0 +1,32 @@
+solmu *ptr, *uusi
+
+uusi malloc
+
+uusi->num = x
+uusi->seuraava = NULL
+if(pAlku == NULL){
+	pAlku = uusi;
+}else{
+	ptr = pAlku
+	while(ptr->seuraava != NULL)
+		ptr = ptr->seuraava;
+	ptr->seuraava = uusi;
+}
+return pAlku;
+
+
+
+ptr = pAlku
+while(ptr != NULL)
+	printf("shit")
+	ptr = ptr->seuraava;
+exit
+
+
+ptr = pAlku
+while(ptr != NULL)
+	pAlku = ptr->seuraava
+	free(ptr)
+	ptr = pAlku
+
+return pAlku

@@ -1,0 +1,12 @@
+
+TUlostamisessa käytä 2 desimaalin tarkkuutta.
+
+1. Tee ohjelma joka kysyy käyttäjältä nimen ja annettavien lukujen määrän. kysyy käyttäjältä annetun määrän verran liukulukuja ja laskee niiden summan, suurin luku ja keskiarvo, lopuksi tulostaa nimi, summa,ka, suurin ja annetut luvut
+
+2. 3 aliohjelmaa, eka nimenkysymiseen, toinen lukujen listaukseen, 3 lukujen tulostus
+
+3. kirjoittaa tiedot tiedostoon (nimi;luku) ja lukee tiedostosta.
+
+4. lukee tiedot linkitettyyn listaan tiedostosta.
+
+5. jaa aliohjelmat headeriin ja tee makefile.
